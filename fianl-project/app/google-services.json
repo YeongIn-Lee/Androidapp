@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633949815572",
+    "project_id": "zoproject-1e480",
+    "storage_bucket": "zoproject-1e480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633949815572:android:b766510251bc088ee13801",
+        "android_client_info": {
+          "package_name": "com.example.mysns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633949815572-t25rdd3sj9j4eeje6qvvv5qsqds6r5pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3fRKmeejOSTba8oMV0vCLlcImSXD3RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633949815572-t25rdd3sj9j4eeje6qvvv5qsqds6r5pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
